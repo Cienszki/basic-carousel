@@ -1,0 +1,17 @@
+#carousel {
+  margin: 0 auto;
+  height: 400px;
+  width: 400px;
+  overflow: hidden;
+}
+
+ul {
+  width: 1200px;
+  list-style: none;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+}
+/*# sourceMappingURL=style.css.map */
